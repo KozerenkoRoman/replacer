@@ -1,0 +1,4 @@
+#Model#  = Definition
+#model#  = definition
+#models# = definitions
+#Models# = Definitions
