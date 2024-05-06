@@ -10,7 +10,7 @@ router.delete('/', commonController.sendMethodNotAllowed);
 
 router.get('/:id', #models#Controller.get#Model#ById);
 router.post('/:id', commonController.sendMethodNotAllowed);
-router.patch('/:id', #models#Controller.patch#Model#ById);
-router.delete('/:id', #models#Controller.delete#Model#ById);
+router.patch('/:id', #models#Controller.patch#Model#);
+router.delete('/:id', #models#Controller.delete#Model#);
 
 module.exports = router;
